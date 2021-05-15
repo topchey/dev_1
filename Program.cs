@@ -11,6 +11,7 @@ namespace ConsoleApp2
         static void Main(string[] args)
         {
             Console.WriteLine("Instruction 1");
+            Console.WriteLine("Instruction 2");
         }
     }
 }
