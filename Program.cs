@@ -17,7 +17,7 @@ namespace ConsoleApp2
             Console.WriteLine("Instruction another Литвинов");
             Console.WriteLine("Instruction another Savinov");
             Console.WriteLine("Instruction another Shtohryn");
-            Console.WriteLine("Instruction another Revenchuk");
+            Console.WriteLine("Instruction another Revenchuk"); 
         }
     }
 }
